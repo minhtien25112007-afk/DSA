@@ -1,0 +1,2 @@
+#Khi đánh giá một thuật toán, người ta thường quan tâm nhất đến trường hợp xấu nhất để đảm bảo ranh giới an toàn cho hệ thống. 
+Vì vậy, độ phức tạp thời gian tổng quát của thuật toán tìm kiếm tuyến tính được kết luận là O(n)

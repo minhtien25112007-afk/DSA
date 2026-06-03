@@ -1,0 +1,3 @@
+KHÔNG bắt buộc
+Tìm kiếm tuyến tính "dễ tính" hơn vì mảng nào cũng chơi được, nhưng chậm. 
+Tìm kiếm nhị phân "khó tính" hơn vì bắt buộc phải sắp xếp trước, nhưng đổi lại tốc độ cực kỳ vượt trội khi xử lý dữ liệu lớn.

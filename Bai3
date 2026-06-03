@@ -1,0 +1,8 @@
+
+   #(a) Với x = 7$:Phần tử đầu tiên của mảng là $A[0] = 7$.
+    #Ngay ở bước đầu tiên, phép so sánh $7 == 7$ cho kết quả đúng 
+    #Thuật toán dừng.Số phép so sánh cần thực hiện: 1 phép so sánh
+    #Thuật toán phải duyệt và so sánh lần lượt từ A[0] đến A[6] mới tìm thấy.
+    #Số phép so sánh cần thực hiện: 7 phép so sánh.(c) Với x = 100: Giá trị $100$ không tồn tại trong mảng.
+    #Thuật toán buộc phải duyệt qua toàn bộ mảng và so sánh với tất cả các phần tử để chắc chắn rằng không bỏ sót.
+    #Số phép so sánh cần thực hiện: 7 phép so sánh (bằng đúng số lượng phần tử N của mảng).

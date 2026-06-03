@@ -1,0 +1,2 @@
+#Input (Đầu vào): la một danh sách (mảng/chuỗi) chứa các phần tử chưa được sắp xếp, một giá trị cần tìm 
+#Output (Đầu ra): vị trí (chỉ số/index) của phần tử x trong danh sách nếu tìm thấy, hoặc một giá trị thông báo 
