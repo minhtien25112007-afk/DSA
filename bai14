@@ -1,0 +1,13 @@
+
+class Node:
+    def __init__(self,data):
+        self.data = data
+        self.next = None
+
+while head:
+
+    tìm node nhỏ nhất
+
+    tách node đó khỏi danh sách cũ
+
+    nối vào cuối danh sách kết quả
